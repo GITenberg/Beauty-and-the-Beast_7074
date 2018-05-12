@@ -1,5 +1,8 @@
 _repo: Beauty-and-the-Beast_7074
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leprince de Beaumont, Madame (Jeanne-Marie)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31518
     wikipedia: http://en.wikipedia.org/wiki/Jeanne-Marie_Leprince_de_Beaumont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7074#Beauty-and-the-Beast
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
